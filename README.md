@@ -17,10 +17,10 @@ Ini adalah rencana pembelajaran selama 100 hari untuk mempelajari Machine Learni
 
 ## Hari 11-20: Pengantar Machine Learning
 
-- [ ] Hari 11: Apa itu Machine Learning?
-- [ ] Hari 12: Tipe-tipe Machine Learning (supervised, unsupervised, reinforcement)
-- [ ] Hari 13: Proses Machine Learning
-- [ ] Hari 14: Pengantar Scikit-Learn
+- [x] Hari 11: Apa itu Machine Learning?
+- [x] Hari 12: Tipe-tipe Machine Learning (supervised, unsupervised, reinforcement)
+- [x] Hari 13: Proses Machine Learning
+- [x] Hari 14: Pengantar Scikit-Learn
 - [ ] Hari 15: Supervised Learning: Classification
 - [ ] Hari 16: Supervised Learning: Regression
 - [ ] Hari 17: Evaluasi model (accuracy, precision, recall, F1-score)
